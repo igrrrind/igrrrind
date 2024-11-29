@@ -13,11 +13,11 @@ Hi there! I'm **igrrrind**, a passionate developer and lifelong learner. I love 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Last 3 Months)
 
-![igrrrind's GitHub Stats](https://github-readme-stats.vercel.app/api?username=igrrrind&show_icons=true&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=igrrrind&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=igrrrind&layout=compact&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=igrrrind&theme=radical&hide_border=true&area=true&custom_title=GitHub%20Activity%20Graph%20(Last%203%20Months))
 
 ---
 
