@@ -6,10 +6,9 @@ Hi there! I'm **igrrrind**, a passionate developer and lifelong learner. I love 
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **[insert what you're learning, e.g., React, Next.js, or Python]**
-- 💻 I’m working on **[insert your current project or focus]**
-- 🤝 I’m open to collaborating on **[insert types of projects, e.g., open-source, web apps, etc.]**
-- ⚡ Fun fact: **[insert something fun about you, e.g., "I love coffee and solving puzzles!"]**
+- 🌱 I’m currently learning Next.js, Node.js
+- 💻 I’m working on a Pomodoro Music App
+- 🤝 I’m open to collaborating on web-apps and client projects
 
 ---
 
